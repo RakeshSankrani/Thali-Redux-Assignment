@@ -1,0 +1,117 @@
+.Nav_style{
+    background-color: black;
+}
+
+
+.links{
+    text-decoration: none;
+    color: greenyellow;
+}
+
+.links:hover{
+    color: white;
+}
+
+.banner_image{
+    height: 250px ;
+    width: 350px;
+}
+
+.header-container{
+    background-color: grey;
+    color: white;
+}
+
+.con_main{
+    margin: 0;
+    padding: 0%;
+}
+
+.banner-body{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sub_head{
+    background-color: #3A0063;
+    color: #ffc107;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
+.img-fluid{
+    height: 200px;
+    width: 300px;
+}
+
+.card_con{
+    border-radius: 25px;
+}
+
+.action_holder{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Quantity{
+    display: flex;
+}
+
+.sub_quan{
+    height: 25px;
+    width: 20px;
+    background-color:#ffc107;
+    color: #3A0063;
+    text-align: center;
+}
+
+.sub_quan_count{
+    height: 25px;
+    width: 30px;
+    background-color:white;
+    color: #3A0063;
+    text-align: center;
+    border: 2px solid #ffc107;
+    
+}
+
+.incre{
+    display: flex;
+}
+
+.buton{
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    background-color: royalblue;
+}
+.middle{
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    border: 2px solid royalblue;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+}
+.img-cart{
+    height: 150px;
+    width: 150px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.labels{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    border-radius: 50px;
+}
+.bucket-cont{
+    border: 3px solid royalblue;
+    border-radius: 20px;
+}
